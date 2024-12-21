@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niquolic/discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niquolic/discord-bot/issues"
+  },
+  "homepage": "https://github.com/niquolic/discord-bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
